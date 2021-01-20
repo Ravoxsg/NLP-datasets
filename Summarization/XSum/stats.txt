@@ -1,0 +1,17 @@
+- type: BBC articles with single-sentence summaries 
+
+- total size: 226,711
+- training size: 204,045
+- validation size: 11,332
+- test size: 11,334
+
+- avg # words per document: 431.07
+- avg # sentences per document: 19.77
+
+- avg # words per summary: 23.26
+- avg # sentences per summary: 1.00
+
+- vocabulary size in documents: 399,147
+- vocabulary size in summaries: 81,092
+
+- dataset ready for download: YES

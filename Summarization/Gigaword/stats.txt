@@ -1,0 +1,11 @@
+- type: sentence summarization / headline generation
+
+- total size: 4M
+- training size: 3.8M
+- validation size: 189k
+- test size: 1951
+
+- avg # tokens per document: 31.4
+- avg # tokens per summary: 8.3
+
+- dataset ready for download: YES

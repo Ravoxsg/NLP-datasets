@@ -1,0 +1,17 @@
+- type: news articles with multi-sentence summaries
+
+- total size: 219,506
+- training size: 196,961
+- validation size: 12,148
+- test size: 10,397
+
+- avg # words per document: 653.33
+- avg # sentences per document: 29.33
+
+- avg # words per summary: 54.65
+- avg # sentences per summary: 3.86
+
+- vocabulary size in documents: 563,663
+- vocabulary size in summaries: 179,966
+
+- dataset ready for download: YES
