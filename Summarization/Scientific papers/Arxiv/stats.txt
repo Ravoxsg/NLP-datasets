@@ -1,0 +1,19 @@
+- type: scientific papers
+- year: 2018
+
+- total size: 215k
+- training size: 
+- validation size: 
+- test size: 
+
+- avg # words per document: 4,938
+- avg # sentences per document: 
+
+- avg # words per summary: 220
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 
+- vocabulary size in summaries: 
+
+- URL: 
+
