@@ -1,0 +1,18 @@
+- type: conversations created by linguists, mimicking messenger chats
+- year: 2019
+
+- total size: 16,369
+- training size: 14,732
+- validation size: 818
+- test size: 819
+
+- avg # words per document: 
+- avg # sentences per document: 
+
+- avg # words per summary: 
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 
+- vocabulary size in summaries: 
+
+- URL: https://arxiv.org/src/1911.12237v2/anc

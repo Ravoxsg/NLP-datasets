@@ -1,0 +1,19 @@
+- type: US Patents
+- year: 2019
+
+- total size: 1,341,362
+- training size: 1,207,222
+- validation size: 67,068
+- test size: 67,072
+
+- avg # words per document: 3,572.8
+- avg # sentences per document: 
+
+- avg # words per summary: 116.5
+- avg # sentences per summary: 3.5
+
+- vocabulary size in documents: 
+- vocabulary size in summaries: 
+
+- URL: https://evasharma.github.io/bigpatent/
+
