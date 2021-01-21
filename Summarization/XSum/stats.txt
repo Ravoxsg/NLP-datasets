@@ -1,4 +1,5 @@
 - type: BBC articles with single-sentence summaries 
+- year: 2018
 
 - total size: 226,711
 - training size: 204,045
@@ -14,4 +15,4 @@
 - vocabulary size in documents: 399,147
 - vocabulary size in summaries: 81,092
 
-- dataset ready for download: YES
+- URL: https://github.com/EdinburghNLP/XSum/tree/master/XSum-Dataset

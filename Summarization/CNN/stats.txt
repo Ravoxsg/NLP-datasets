@@ -1,4 +1,5 @@
 - type: news articles with multi-sentence summaries
+- year: 2015
 
 - total size: 92,579
 - training size: 90,266
@@ -14,4 +15,5 @@
 - vocabulary size in documents: 343,516
 - vocabulary size in summaries: 89,051
 
-- dataset ready for download: YES
+- URL: https://cs.nyu.edu/~kcho/DMQA/
+

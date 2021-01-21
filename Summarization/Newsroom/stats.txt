@@ -1,0 +1,18 @@
+- type: newsrooms (news articles) with multi-sentence summaries
+- year: 2018
+
+- total size: 1,321,995
+- training size: 995,041
+- validation size: 108,837
+- test size: 108,862
+
+- avg # words per document: 658.6
+- avg # sentences per document: 26.7
+
+- avg # words per summary: 
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 6,925,712
+- vocabulary size in summaries: 
+
+- URL: ?

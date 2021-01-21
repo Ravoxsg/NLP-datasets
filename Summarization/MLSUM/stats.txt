@@ -1,0 +1,86 @@
+- type: news articles with multi-sentence summaries
+- year: 2020
+
+##### FRENCH
+
+- total size: 424,763
+- training size: 392,876
+- validation size: 
+- test size: 
+
+- avg # words per document: 632.9
+- avg # sentences per document: 29.5
+
+- avg # words per summary: 
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 1,245,987
+- vocabulary size in summaries: 
+
+##### GERMAN
+
+- total size: 242,982
+- training size: 220,887
+- validation size: 
+- test size: 
+
+- avg # words per document: 570.6
+- avg # sentences per document: 30.36
+
+- avg # words per summary: 
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 1,721,322
+- vocabulary size in summaries: 
+
+##### SPANISH
+
+- total size: 290,645
+- training size: 266,367
+- validation size: 
+- test size: 
+
+- avg # words per document: 800.50
+- avg # sentences per document: 20.71
+
+- avg # words per summary: 
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 1,257,920
+- vocabulary size in summaries: 
+
+##### RUSSIAN
+
+- total size: 27,063
+- training size: 25,556
+- validation size: 
+- test size: 
+
+- avg # words per document: 959.4
+- avg # sentences per document: 14.57
+
+- avg # words per summary: 
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 649,304
+- vocabulary size in summaries: 
+
+##### TURKISH
+
+- total size: 273,617
+- training size: 249,277
+- validation size: 
+- test size: 
+
+- avg # words per document: 309.18
+- avg # sentences per document: 22.88
+
+- avg # words per summary: 
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 1,419,228
+- vocabulary size in summaries: 
+
+#####
+
+- URL: ?

@@ -1,8 +1,9 @@
 - type: sentence summarization
+- year: 2004
 
 - total size: 500
 
 - avg # tokens per document: 35.6
 - avg # tokens per summary: 10.4
 
-- dataset ready for download: NO
+- URL: https://github.com/harvardnlp/sent-summary

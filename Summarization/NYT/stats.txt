@@ -1,4 +1,5 @@
 - type: news articles with multi-sentence summaries
+- year: 2008
 
 - total size: 654,759
 - training size: 589,284
@@ -14,4 +15,4 @@
 - vocabulary size in documents: 1,399,358
 - vocabulary size in summaries: 294,011
 
-- dataset ready for download: NO
+- ULR: ?
