@@ -1,0 +1,18 @@
+- type: conversations created by linguists, mimicking messenger chats
+- year: 2019
+
+- total size: 42,984
+- training size: 
+- validation size: 
+- test size: 
+
+- avg # words per document: 432.6
+- avg # sentences per document: 
+
+- avg # words per summary: 23.0
+- avg # sentences per summary: 
+
+- vocabulary size in documents: 
+- vocabulary size in summaries: 
+
+- URL: https://ucsb.app.box.com/s/ap23l8gafpezf4tq3wapr6u8241zz358
