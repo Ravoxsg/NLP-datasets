@@ -1,15 +1,15 @@
 - type: Reddit posts with single sentence short and long summaries.
 - year: 2019
 
-- total size: 42,984
+- total size: 79,949 (short) / 42,984 (long)
 - training size: 
 - validation size: 
 - test size: 
 
-- avg # words per document: 432.6
+- avg # words per document: 342.4 (short) / 432.6 (long)
 - avg # sentences per document: 
 
-- avg # words per summary: 23.0
+- avg # words per summary: 9.33 (short) / 23.0 (long)
 - avg # sentences per summary: 
 
 - vocabulary size in documents: 
