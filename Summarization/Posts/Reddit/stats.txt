@@ -1,4 +1,4 @@
-- type: conversations created by linguists, mimicking messenger chats
+- type: Reddit posts with single sentence short and long summaries.
 - year: 2019
 
 - total size: 42,984
