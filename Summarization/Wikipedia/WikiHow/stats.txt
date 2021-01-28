@@ -1,5 +1,5 @@
-- type: conversations created by linguists, mimicking messenger chats
-- year: 2019
+- type: Wikipedia articles starting with "How to", with bold lines of being concatenated to form a summary.
+- year: 2018
 
 - total size: 230,843
 - training size: 
